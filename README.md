@@ -1,5 +1,6 @@
 # Designated Survivor
-
+<!--- This is a placeholder for the cover image [Designated Survivor](image code)--->
+<!--- This is a placeholder for the secondary header ## About --->
 The world of Spee has been ravaged by the Invasion of Darkness and the subsequent zombie apocalypse.
 A post-apocalyptic First-Person Shooter and Racing game taking place on Spee in the present day.
 In a world were the apocalypse just happened the other day, you have to fight for resources.
