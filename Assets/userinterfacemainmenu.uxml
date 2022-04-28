@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="userinterfacemainmenu.uss" />
+    <ui:VisualElement />
+    <ui:Button text="2021" display-tooltip-when-elided="true" name="Button" style="height: 49px; width: 140px; -unity-font: url(&apos;Library/unity default resources&apos;);" />
+    <ui:Button text="2028" display-tooltip-when-elided="true" enable-rich-text="false" style="height: 49px; width: 140px;" />
+</ui:UXML>
